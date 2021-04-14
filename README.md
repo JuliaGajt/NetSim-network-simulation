@@ -4,6 +4,6 @@ Projekt systemu służącego do modelowania i symulacji działania sieci – na 
 
 # Autorzy
 
-Julia Gajtkowska
-Iwona Giczan
-Karolina Kulpa
+* Julia Gajtkowska
+* Iwona Giczan
+* Karolina Kulpa
